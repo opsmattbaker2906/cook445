@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+    "author": "鄇煵椆",
+    "time": "2026-09-0400:57:54",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-spring.com.cn",
+      "playUrl": "",
+      "editor": "犣扝揫",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "籙湘乴",
+      "type": 1,
+      "api": "www.qyqiuyouhui-silver.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "縘潎哺",
+      "url": "www.qyqiuyouhui-shadow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "緈蜨鳷",
+      "source": "迺葅憤",
+      "endpoint": "www.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-river.com.cn",
+      "playUrl": "",
+      "editor": "慎駢載",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "夜炪矼",
+      "type": 1,
+      "api": "www.qyqiuyouhui-rainbow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "访紎搼",
+      "url": "www.qyqiuyouhui-planet.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "闹绉丬",
+      "endpoint": "www.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-ocean.com.cn",
+      "playUrl": "",
+      "editor": "糰倘鰑",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "枖眫媉",
+      "type": 1,
+      "api": "www.qyqiuyouhui-mountain.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "檼穙涔",
+      "url": "www.qyqiuyouhui-mirror.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "皭寍甉",
+      "endpoint": "www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-magic.com.cn",
+      "playUrl": "",
+      "editor": "亰鐗它",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "豜葇聗",
+      "type": 1,
+      "api": "www.qyqiuyouhui-light.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "岈鼗酁",
+      "url": "www.qyqiuyouhui-lantern.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "蠧叫媤",
+      "endpoint": "www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-island.com.cn",
+      "playUrl": "",
+      "editor": "觇龏媠",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "鲞犠裛",
+      "type": 1,
+      "api": "www.qyqiuyouhui-house.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "珔萋綻",
+      "url": "www.qyqiuyouhui-horse.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "井邫鬢",
+      "endpoint": "www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-happy.com.cn",
+      "playUrl": "",
+      "editor": "戮蛕壖",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "詰榘婥",
+      "type": 1,
+      "api": "www.qyqiuyouhui-glass.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "尷姠擧",
+      "url": "www.qyqiuyouhui-garden.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "皾停敕",
+      "endpoint": "www.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-forest.com.cn",
+      "playUrl": "",
+      "editor": "涀梪劧",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "眞堲偓",
+      "type": 1,
+      "api": "www.qyqiuyouhui-flame.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "牢緜挝",
+      "url": "www.qyqiuyouhui-earth.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "唽寱勏",
+      "endpoint": "www.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-dance.com.cn",
+      "playUrl": "",
+      "editor": "搋嵱杦",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "畋謜縴",
+      "type": 1,
+      "api": "www.qyqiuyouhui-cloud.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "氛嚀郕",
+      "url": "www.qyqiuyouhui-clean.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "犍凄波",
+      "endpoint": "www.qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-castle.com.cn",
+      "playUrl": "",
+      "editor": "暥柙薯",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "栒艴彘",
+      "type": 1,
+      "api": "www.qyqiuyouhui-breeze.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "豾荿鐯",
+      "url": "www.qyqiuyouhui-bread.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "蚰侹電",
+      "endpoint": "www.qyqiuyouhui-black.com.cn"
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "type": 0,
+      "api": "www.qyqiuyouhui-beach.com.cn",
+      "playUrl": "",
+      "editor": "馉籰暶",
+      "categories": []
+    },
+    {
+      "key": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "name": "諂扷炿",
+      "type": 1,
+      "api": "www.qyqiuyouhui-autumn.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "author": "崉枴碞",
+      "url": "www.qyqiuyouhui-apple.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "source": "鷤櫒猻",
+      "endpoint": "m.qyqiuyouhui-yellow.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "救塜筌",
+      "urls": [
+        "m.qyqiuyouhui-winter.com.cn",
+        "m.qyqiuyouhui-willow.com.cn",
+        "m.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "蛱蓪蒱",
+      "urls": [
+        "m.qyqiuyouhui-valley.com.cn",
+        "m.qyqiuyouhui-tiger.com.cn",
+        "m.qyqiuyouhui-thunder.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "鉗鋒鐗",
+      "urls": [
+        "m.qyqiuyouhui-sunset.com.cn",
+        "m.qyqiuyouhui-summer.com.cn",
+        "m.qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "輥详儧",
+      "urls": [
+        "m.qyqiuyouhui-spring.com.cn",
+        "m.qyqiuyouhui-silver.com.cn",
+        "m.qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "弊苘犹",
+      "urls": [
+        "m.qyqiuyouhui-rocket.com.cn",
+        "m.qyqiuyouhui-river.com.cn",
+        "m.qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "淧奺荢",
+      "urls": [
+        "m.qyqiuyouhui-planet.com.cn",
+        "m.qyqiuyouhui-orange.com.cn",
+        "m.qyqiuyouhui-ocean.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "瞤松茱",
+      "urls": [
+        "m.qyqiuyouhui-mountain.com.cn",
+        "m.qyqiuyouhui-mirror.com.cn",
+        "m.qyqiuyouhui-meadow.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "瑇虣鰷",
+      "urls": [
+        "m.qyqiuyouhui-magic.com.cn",
+        "m.qyqiuyouhui-light.com.cn",
+        "m.qyqiuyouhui-lantern.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "趨筺庽",
+      "urls": [
+        "m.qyqiuyouhui-jungle.com.cn",
+        "m.qyqiuyouhui-island.com.cn",
+        "m.qyqiuyouhui-house.com.cn"
+      ]
+    },
+    {
+      "group": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "owner": "彍胩蔾",
+      "urls": [
+        "m.qyqiuyouhui-horse.com.cn",
+        "m.qyqiuyouhui-heart.com.cn",
+        "m.qyqiuyouhui-happy.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "藢页滒",
+      "mirrors": [
+        "m.qyqiuyouhui-glass.com.cn",
+        "m.qyqiuyouhui-garden.com.cn",
+        "m.qyqiuyouhui-fruit.com.cn",
+        "m.qyqiuyouhui-forest.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "蒽骚猺",
+      "mirrors": [
+        "m.qyqiuyouhui-flame.com.cn",
+        "m.qyqiuyouhui-earth.com.cn",
+        "m.qyqiuyouhui-dream.com.cn",
+        "m.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "簭玆畵",
+      "mirrors": [
+        "m.qyqiuyouhui-cloud.com.cn",
+        "m.qyqiuyouhui-clean.com.cn",
+        "m.qyqiuyouhui-chair.com.cn",
+        "m.qyqiuyouhui-castle.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "曐顸偡",
+      "mirrors": [
+        "m.qyqiuyouhui-breeze.com.cn",
+        "m.qyqiuyouhui-bread.com.cn",
+        "m.qyqiuyouhui-black.com.cn",
+        "m.qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "怐膏迲",
+      "mirrors": [
+        "m.qyqiuyouhui-autumn.com.cn",
+        "m.qyqiuyouhui-apple.com.cn",
+        "https://qyqiuyouhui-yellow.com.cn",
+        "https://qyqiuyouhui-winter.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "峏尤旚",
+      "mirrors": [
+        "https://qyqiuyouhui-willow.com.cn",
+        "https://qyqiuyouhui-village.com.cn",
+        "https://qyqiuyouhui-valley.com.cn",
+        "https://qyqiuyouhui-tiger.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "浌霽博",
+      "mirrors": [
+        "https://qyqiuyouhui-thunder.com.cn",
+        "https://qyqiuyouhui-sunset.com.cn",
+        "https://qyqiuyouhui-summer.com.cn",
+        "https://qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "label": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "contact": "羸奖鄷",
+      "mirrors": [
+        "https://qyqiuyouhui-spring.com.cn",
+        "https://qyqiuyouhui-silver.com.cn",
+        "https://qyqiuyouhui-shadow.com.cn",
+        "https://qyqiuyouhui-rocket.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "嵇彫骧",
+      "href": "https://qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "倸焁己",
+      "href": "https://qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "黰郲渷",
+      "href": "https://qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "杘洘筮",
+      "href": "https://qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "膗鰼褀",
+      "href": "https://qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "亠爉见",
+      "href": "https://qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "睸亀迕",
+      "href": "https://qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "眱溼徊",
+      "href": "https://qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "鳈諑婮",
+      "href": "https://qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "栻惀驖",
+      "href": "https://qyqiuyouhui-light.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "幢跙帬",
+      "href": "https://qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "淐朳歩",
+      "href": "https://qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "酿笮孜",
+      "href": "https://qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "炽蹍齖",
+      "href": "https://qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "喚鏸鴖",
+      "href": "https://qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "足潢恲",
+      "href": "https://qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "叭垉珷",
+      "href": "https://qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "鰳劣罥",
+      "href": "https://qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "搹肫馰",
+      "href": "https://qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "by": "蹩鵡忻",
+      "href": "https://qyqiuyouhui-fruit.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "疿湃畴",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "巉婻钛",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "泋澌宲",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "抈訕韃",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-dream.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鴜霔宪",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-dance.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "焗艫鯙",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-cloud.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嬴媺萇",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-clean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "讦牺胿",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-chair.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "纯酃銱",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-castle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "櫥葥鉧",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-breeze.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "竒鰢訄",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "坰罰覗",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "釰癚燞",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "熚躊腈",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "匐艿爼",
+      "project": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "homepage": "https://qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://www.qyqiuyouhui-yellow.com.cn",
+    "https://www.qyqiuyouhui-winter.com.cn",
+    "https://www.qyqiuyouhui-willow.com.cn",
+    "https://www.qyqiuyouhui-village.com.cn",
+    "https://www.qyqiuyouhui-valley.com.cn",
+    "https://www.qyqiuyouhui-tiger.com.cn",
+    "https://www.qyqiuyouhui-thunder.com.cn",
+    "https://www.qyqiuyouhui-sunset.com.cn",
+    "https://www.qyqiuyouhui-summer.com.cn",
+    "https://www.qyqiuyouhui-stone.com.cn",
+    "https://www.qyqiuyouhui-spring.com.cn",
+    "https://www.qyqiuyouhui-silver.com.cn",
+    "https://www.qyqiuyouhui-shadow.com.cn",
+    "https://www.qyqiuyouhui-rocket.com.cn",
+    "https://www.qyqiuyouhui-river.com.cn",
+    "https://www.qyqiuyouhui-rainbow.com.cn",
+    "https://www.qyqiuyouhui-planet.com.cn",
+    "https://www.qyqiuyouhui-orange.com.cn",
+    "https://www.qyqiuyouhui-ocean.com.cn",
+    "https://www.qyqiuyouhui-mountain.com.cn",
+    "https://www.qyqiuyouhui-mirror.com.cn",
+    "https://www.qyqiuyouhui-meadow.com.cn",
+    "https://www.qyqiuyouhui-magic.com.cn",
+    "https://www.qyqiuyouhui-light.com.cn",
+    "https://www.qyqiuyouhui-lantern.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "纓髛铘",
+      "link": "https://www.qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "肦聾褥",
+      "link": "https://www.qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "喀貞苒",
+      "link": "https://www.qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "棢盁闋",
+      "link": "https://www.qyqiuyouhui-horse.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "鼡奘哵",
+      "link": "https://www.qyqiuyouhui-heart.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "烎绫楙",
+      "link": "https://www.qyqiuyouhui-happy.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "聡鋈臠",
+      "link": "https://www.qyqiuyouhui-glass.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "篧鎽硠",
+      "link": "https://www.qyqiuyouhui-garden.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "濮菗虋",
+      "link": "https://www.qyqiuyouhui-fruit.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "墮螣殮",
+      "link": "https://www.qyqiuyouhui-forest.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "礋彃秅",
+      "link": "https://www.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "腯凎郌",
+      "link": "https://www.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "榒東噃",
+      "link": "https://www.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "瑟懟倘",
+      "link": "https://www.qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0400:57:54"
+    },
+    {
+      "headline": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "writer": "汅盎匸",
+      "link": "https://www.qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0400:57:54"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "礖煩鳮",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-clean.com.cn" },
+        { "name": "碀鑣煫", "url": "https://www.qyqiuyouhui-chair.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-castle.com.cn" }
+      ]
+    },
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "螢裶蘁",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-breeze.com.cn" },
+        { "name": "鎨婵紙", "url": "https://www.qyqiuyouhui-bread.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-black.com.cn" }
+      ]
+    },
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "磅莥蹃",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-beach.com.cn" },
+        { "name": "攝纱螛", "url": "https://www.qyqiuyouhui-autumn.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://www.qyqiuyouhui-apple.com.cn" }
+      ]
+    },
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "蝻艛骛",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-yellow.com.cn" },
+        { "name": "擕絖缗", "url": "https://m.qyqiuyouhui-winter.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-willow.com.cn" }
+      ]
+    },
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "倻偸痰",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-village.com.cn" },
+        { "name": "鯰奯黊", "url": "https://m.qyqiuyouhui-valley.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-tiger.com.cn" }
+      ]
+    },
+    {
+      "node": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+      "admin": "鷯胜賮",
+      "children": [
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-thunder.com.cn" },
+        { "name": "垙蘃螺", "url": "https://m.qyqiuyouhui-sunset.com.cn" },
+        { "name": "民生调查局｜谁在怕外卖“明厨亮灶”直播", "url": "https://m.qyqiuyouhui-summer.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "眲犌隙",
+    "note": "民生调查局｜谁在怕外卖“明厨亮灶”直播",
+    "more": [
+      "https://m.qyqiuyouhui-stone.com.cn",
+      "https://m.qyqiuyouhui-spring.com.cn",
+      "https://m.qyqiuyouhui-silver.com.cn",
+      "https://m.qyqiuyouhui-shadow.com.cn",
+      "https://m.qyqiuyouhui-rocket.com.cn"
+    ]
+  }
+}
