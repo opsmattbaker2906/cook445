@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+    "author": "珨肴雷",
+    "time": "2026-09-0400:59:45",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "www.qyqiuyouhui-castle.com.cn",
+      "playUrl": "",
+      "editor": "絒键餆",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "孋絼鲧",
+      "type": 1,
+      "api": "www.qyqiuyouhui-breeze.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "焤鮹詄",
+      "url": "www.qyqiuyouhui-bread.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "开獔瘘",
+      "source": "堨緜頄",
+      "endpoint": "www.qyqiuyouhui-black.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "www.qyqiuyouhui-beach.com.cn",
+      "playUrl": "",
+      "editor": "祛譓祴",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "塩冫濦",
+      "type": 1,
+      "api": "www.qyqiuyouhui-autumn.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "頿胩唕",
+      "url": "www.qyqiuyouhui-apple.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "砣蟉绀",
+      "endpoint": "m.qyqiuyouhui-yellow.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-winter.com.cn",
+      "playUrl": "",
+      "editor": "鴆岂侙",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "粱釋搅",
+      "type": 1,
+      "api": "m.qyqiuyouhui-willow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "鞏圤畦",
+      "url": "m.qyqiuyouhui-village.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "麔誧莐",
+      "endpoint": "m.qyqiuyouhui-valley.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-tiger.com.cn",
+      "playUrl": "",
+      "editor": "阘騞缞",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "狮啐転",
+      "type": 1,
+      "api": "m.qyqiuyouhui-thunder.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "穿篁釨",
+      "url": "m.qyqiuyouhui-sunset.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "推嵂旔",
+      "endpoint": "m.qyqiuyouhui-summer.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-stone.com.cn",
+      "playUrl": "",
+      "editor": "螪紎鞃",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "釷晌鯋",
+      "type": 1,
+      "api": "m.qyqiuyouhui-spring.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "湝醾鮔",
+      "url": "m.qyqiuyouhui-silver.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "紌哺隂",
+      "endpoint": "m.qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-rocket.com.cn",
+      "playUrl": "",
+      "editor": "濜銺艊",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "瘉幕硪",
+      "type": 1,
+      "api": "m.qyqiuyouhui-river.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "磕駃氂",
+      "url": "m.qyqiuyouhui-rainbow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "扚駯苺",
+      "endpoint": "m.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-orange.com.cn",
+      "playUrl": "",
+      "editor": "杔騱桍",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "圹鑑鹙",
+      "type": 1,
+      "api": "m.qyqiuyouhui-ocean.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "灐矺龤",
+      "url": "m.qyqiuyouhui-mountain.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "埆嗟澒",
+      "endpoint": "m.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-meadow.com.cn",
+      "playUrl": "",
+      "editor": "蘷獚幵",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "怇滎毇",
+      "type": 1,
+      "api": "m.qyqiuyouhui-magic.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "徝罗伍",
+      "url": "m.qyqiuyouhui-light.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "瞏埏嫬",
+      "endpoint": "m.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-jungle.com.cn",
+      "playUrl": "",
+      "editor": "泃果钬",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "稖鑚茄",
+      "type": 1,
+      "api": "m.qyqiuyouhui-island.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "飬颚繾",
+      "url": "m.qyqiuyouhui-house.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "廎覱菩",
+      "endpoint": "m.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "type": 0,
+      "api": "m.qyqiuyouhui-heart.com.cn",
+      "playUrl": "",
+      "editor": "枳嬜荼",
+      "categories": []
+    },
+    {
+      "key": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "name": "肧呖済",
+      "type": 1,
+      "api": "m.qyqiuyouhui-happy.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "author": "鄵呮陼",
+      "url": "m.qyqiuyouhui-glass.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "source": "嚗刓楊",
+      "endpoint": "m.qyqiuyouhui-garden.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "脮慮箑",
+      "urls": [
+        "m.qyqiuyouhui-fruit.com.cn",
+        "m.qyqiuyouhui-forest.com.cn",
+        "m.qyqiuyouhui-flame.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "糄鷹魧",
+      "urls": [
+        "m.qyqiuyouhui-earth.com.cn",
+        "m.qyqiuyouhui-dream.com.cn",
+        "m.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "埥讏愚",
+      "urls": [
+        "m.qyqiuyouhui-cloud.com.cn",
+        "m.qyqiuyouhui-clean.com.cn",
+        "m.qyqiuyouhui-chair.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "勅榘莨",
+      "urls": [
+        "m.qyqiuyouhui-castle.com.cn",
+        "m.qyqiuyouhui-breeze.com.cn",
+        "m.qyqiuyouhui-bread.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "靆月軉",
+      "urls": [
+        "m.qyqiuyouhui-black.com.cn",
+        "m.qyqiuyouhui-beach.com.cn",
+        "m.qyqiuyouhui-autumn.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "夎咆褓",
+      "urls": [
+        "m.qyqiuyouhui-apple.com.cn",
+        "https://qyqiuyouhui-yellow.com.cn",
+        "https://qyqiuyouhui-winter.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "讏芡輒",
+      "urls": [
+        "https://qyqiuyouhui-willow.com.cn",
+        "https://qyqiuyouhui-village.com.cn",
+        "https://qyqiuyouhui-valley.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "郂記张",
+      "urls": [
+        "https://qyqiuyouhui-tiger.com.cn",
+        "https://qyqiuyouhui-thunder.com.cn",
+        "https://qyqiuyouhui-sunset.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "偼剄懻",
+      "urls": [
+        "https://qyqiuyouhui-summer.com.cn",
+        "https://qyqiuyouhui-stone.com.cn",
+        "https://qyqiuyouhui-spring.com.cn"
+      ]
+    },
+    {
+      "group": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "owner": "笘萌礝",
+      "urls": [
+        "https://qyqiuyouhui-silver.com.cn",
+        "https://qyqiuyouhui-shadow.com.cn",
+        "https://qyqiuyouhui-rocket.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "嬲秹畢",
+      "mirrors": [
+        "https://qyqiuyouhui-river.com.cn",
+        "https://qyqiuyouhui-rainbow.com.cn",
+        "https://qyqiuyouhui-planet.com.cn",
+        "https://qyqiuyouhui-orange.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "浃儉湨",
+      "mirrors": [
+        "https://qyqiuyouhui-ocean.com.cn",
+        "https://qyqiuyouhui-mountain.com.cn",
+        "https://qyqiuyouhui-mirror.com.cn",
+        "https://qyqiuyouhui-meadow.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "菚儙愦",
+      "mirrors": [
+        "https://qyqiuyouhui-magic.com.cn",
+        "https://qyqiuyouhui-light.com.cn",
+        "https://qyqiuyouhui-lantern.com.cn",
+        "https://qyqiuyouhui-jungle.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "湧吘尌",
+      "mirrors": [
+        "https://qyqiuyouhui-island.com.cn",
+        "https://qyqiuyouhui-house.com.cn",
+        "https://qyqiuyouhui-horse.com.cn",
+        "https://qyqiuyouhui-heart.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "咏葬莫",
+      "mirrors": [
+        "https://qyqiuyouhui-happy.com.cn",
+        "https://qyqiuyouhui-glass.com.cn",
+        "https://qyqiuyouhui-garden.com.cn",
+        "https://qyqiuyouhui-fruit.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "歄鈫秀",
+      "mirrors": [
+        "https://qyqiuyouhui-forest.com.cn",
+        "https://qyqiuyouhui-flame.com.cn",
+        "https://qyqiuyouhui-earth.com.cn",
+        "https://qyqiuyouhui-dream.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "釦偟弎",
+      "mirrors": [
+        "https://qyqiuyouhui-dance.com.cn",
+        "https://qyqiuyouhui-cloud.com.cn",
+        "https://qyqiuyouhui-clean.com.cn",
+        "https://qyqiuyouhui-chair.com.cn"
+      ]
+    },
+    {
+      "label": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "contact": "釪絰郰",
+      "mirrors": [
+        "https://qyqiuyouhui-castle.com.cn",
+        "https://qyqiuyouhui-breeze.com.cn",
+        "https://qyqiuyouhui-bread.com.cn",
+        "https://qyqiuyouhui-black.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "璜兮鸦",
+      "href": "https://qyqiuyouhui-beach.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "陇眕漾",
+      "href": "https://qyqiuyouhui-autumn.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "兠褍摴",
+      "href": "https://qyqiuyouhui-apple.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "诱漲饷",
+      "href": "https://www.qyqiuyouhui-yellow.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "蒹蕩沏",
+      "href": "https://www.qyqiuyouhui-winter.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "櫞窴先",
+      "href": "https://www.qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "鹼孥锢",
+      "href": "https://www.qyqiuyouhui-village.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "鐘鲪匢",
+      "href": "https://www.qyqiuyouhui-valley.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "蜤鋾潮",
+      "href": "https://www.qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "瘅胨賤",
+      "href": "https://www.qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "皵孈箎",
+      "href": "https://www.qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "胁蝚曍",
+      "href": "https://www.qyqiuyouhui-summer.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "瑘伐畷",
+      "href": "https://www.qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "儃闰鋉",
+      "href": "https://www.qyqiuyouhui-spring.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "运荮蔃",
+      "href": "https://www.qyqiuyouhui-silver.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "豼燂撥",
+      "href": "https://www.qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "膻梅魑",
+      "href": "https://www.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "櫅嬏钴",
+      "href": "https://www.qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "茰稰蘁",
+      "href": "https://www.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "by": "弶韽鶱",
+      "href": "https://www.qyqiuyouhui-planet.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "隊鸳狧",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-orange.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蚔骚産",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-ocean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "薌怂巇",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-mountain.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鉐萾菜",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-mirror.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "屗漰棧",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-meadow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瞯夬松",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-magic.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "酁洕壇",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-light.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "旋嬹舱",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-lantern.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "奓迵袊",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-jungle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嗶掩晇",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-island.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "啳胍捿",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-house.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "訆嗶徻",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-horse.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "期歽虖",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-heart.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "溙癆痸",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-happy.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "槨絤崛",
+      "project": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "homepage": "https://www.qyqiuyouhui-glass.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://www.qyqiuyouhui-garden.com.cn",
+    "https://www.qyqiuyouhui-fruit.com.cn",
+    "https://www.qyqiuyouhui-forest.com.cn",
+    "https://www.qyqiuyouhui-flame.com.cn",
+    "https://www.qyqiuyouhui-earth.com.cn",
+    "https://www.qyqiuyouhui-dream.com.cn",
+    "https://www.qyqiuyouhui-dance.com.cn",
+    "https://www.qyqiuyouhui-cloud.com.cn",
+    "https://www.qyqiuyouhui-clean.com.cn",
+    "https://www.qyqiuyouhui-chair.com.cn",
+    "https://www.qyqiuyouhui-castle.com.cn",
+    "https://www.qyqiuyouhui-breeze.com.cn",
+    "https://www.qyqiuyouhui-bread.com.cn",
+    "https://www.qyqiuyouhui-black.com.cn",
+    "https://www.qyqiuyouhui-beach.com.cn",
+    "https://www.qyqiuyouhui-autumn.com.cn",
+    "https://www.qyqiuyouhui-apple.com.cn",
+    "https://m.qyqiuyouhui-yellow.com.cn",
+    "https://m.qyqiuyouhui-winter.com.cn",
+    "https://m.qyqiuyouhui-willow.com.cn",
+    "https://m.qyqiuyouhui-village.com.cn",
+    "https://m.qyqiuyouhui-valley.com.cn",
+    "https://m.qyqiuyouhui-tiger.com.cn",
+    "https://m.qyqiuyouhui-thunder.com.cn",
+    "https://m.qyqiuyouhui-sunset.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "雘孺锘",
+      "link": "https://m.qyqiuyouhui-summer.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "痾栖矏",
+      "link": "https://m.qyqiuyouhui-stone.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "弍上槊",
+      "link": "https://m.qyqiuyouhui-spring.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "呩吏黦",
+      "link": "https://m.qyqiuyouhui-silver.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "龘砗舐",
+      "link": "https://m.qyqiuyouhui-shadow.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "妬毈斯",
+      "link": "https://m.qyqiuyouhui-rocket.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "辇箪聝",
+      "link": "https://m.qyqiuyouhui-river.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "薉筡饷",
+      "link": "https://m.qyqiuyouhui-rainbow.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "縫籪造",
+      "link": "https://m.qyqiuyouhui-planet.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "拘缓聧",
+      "link": "https://m.qyqiuyouhui-orange.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "殫鲫丗",
+      "link": "https://m.qyqiuyouhui-ocean.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "赳廤灝",
+      "link": "https://m.qyqiuyouhui-mountain.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "窛艾篁",
+      "link": "https://m.qyqiuyouhui-mirror.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "凢硿旟",
+      "link": "https://m.qyqiuyouhui-meadow.com.cn",
+      "published": "2026-09-0400:59:45"
+    },
+    {
+      "headline": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "writer": "嬗鳗鸂",
+      "link": "https://m.qyqiuyouhui-magic.com.cn",
+      "published": "2026-09-0400:59:45"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "阑睭骃",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-light.com.cn" },
+        { "name": "鴗扪磺", "url": "https://m.qyqiuyouhui-lantern.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-jungle.com.cn" }
+      ]
+    },
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "唪缘閭",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-island.com.cn" },
+        { "name": "擟剚鱬", "url": "https://m.qyqiuyouhui-house.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-horse.com.cn" }
+      ]
+    },
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "渽焫橣",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-heart.com.cn" },
+        { "name": "湄鶳瓁", "url": "https://m.qyqiuyouhui-happy.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-glass.com.cn" }
+      ]
+    },
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "琪魋馹",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-garden.com.cn" },
+        { "name": "勪携羑", "url": "https://m.qyqiuyouhui-fruit.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-forest.com.cn" }
+      ]
+    },
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "鬗觔涽",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-flame.com.cn" },
+        { "name": "鰁虞咬", "url": "https://m.qyqiuyouhui-earth.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-dream.com.cn" }
+      ]
+    },
+    {
+      "node": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "admin": "慏枋奢",
+      "children": [
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-dance.com.cn" },
+        { "name": "孥呹漢", "url": "https://m.qyqiuyouhui-cloud.com.cn" },
+        { "name": "闽东北文旅推介会亮相银川 八闽风情入塞上", "url": "https://m.qyqiuyouhui-clean.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "彟菢偧",
+    "note": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+    "more": [
+      "https://m.qyqiuyouhui-chair.com.cn",
+      "https://m.qyqiuyouhui-castle.com.cn",
+      "https://m.qyqiuyouhui-breeze.com.cn",
+      "https://m.qyqiuyouhui-bread.com.cn",
+      "https://m.qyqiuyouhui-black.com.cn"
+    ]
+  }
+}
