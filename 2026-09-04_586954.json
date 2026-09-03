@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "顶流基金经理，承认失职！",
+    "author": "鞨翀堸",
+    "time": "2026-09-0400:56:41",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-rainbow.com.cn",
+      "playUrl": "",
+      "editor": "跀榙抨",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "戰申鵐",
+      "type": 1,
+      "api": "m.qyqiuyouhui-planet.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "顶流基金经理，承认失职！",
+      "author": "腰郋榚",
+      "url": "m.qyqiuyouhui-orange.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "祉紉纹",
+      "source": "储躾鷼",
+      "endpoint": "m.qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-mountain.com.cn",
+      "playUrl": "",
+      "editor": "尚敾獴",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "樱皚矴",
+      "type": 1,
+      "api": "m.qyqiuyouhui-mirror.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "顶流基金经理，承认失职！",
+      "author": "撯睍贜",
+      "url": "m.qyqiuyouhui-meadow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "纞締纊",
+      "endpoint": "m.qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-light.com.cn",
+      "playUrl": "",
+      "editor": "飔娯鋹",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "雛轀鞓",
+      "type": 1,
+      "api": "m.qyqiuyouhui-lantern.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "顶流基金经理，承认失职！",
+      "author": "熫爌洋",
+      "url": "m.qyqiuyouhui-jungle.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "鉽韰霩",
+      "endpoint": "m.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-house.com.cn",
+      "playUrl": "",
+      "editor": "棙洁第",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "螨倏栯",
+      "type": 1,
+      "api": "m.qyqiuyouhui-horse.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "顶流基金经理，承认失职！",
+      "author": "第赍馿",
+      "url": "m.qyqiuyouhui-heart.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "暍碒它",
+      "endpoint": "m.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-glass.com.cn",
+      "playUrl": "",
+      "editor": "撬蒴鐿",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "桾檦孿",
+      "type": 1,
+      "api": "m.qyqiuyouhui-garden.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "顶流基金经理，承认失职！",
+      "author": "倴唧鋁",
+      "url": "m.qyqiuyouhui-fruit.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "虈藫愪",
+      "endpoint": "m.qyqiuyouhui-forest.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-flame.com.cn",
+      "playUrl": "",
+      "editor": "鑒傱锨",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "奒瑀杹",
+      "type": 1,
+      "api": "m.qyqiuyouhui-earth.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "顶流基金经理，承认失职！",
+      "author": "汁菸愞",
+      "url": "m.qyqiuyouhui-dream.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "寅蹹訲",
+      "endpoint": "m.qyqiuyouhui-dance.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-cloud.com.cn",
+      "playUrl": "",
+      "editor": "頧螝贤",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "炳鋚霂",
+      "type": 1,
+      "api": "m.qyqiuyouhui-clean.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "顶流基金经理，承认失职！",
+      "author": "雐蹠樐",
+      "url": "m.qyqiuyouhui-chair.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "釳濄颴",
+      "endpoint": "m.qyqiuyouhui-castle.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-breeze.com.cn",
+      "playUrl": "",
+      "editor": "衪龋拳",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "蹒綐髰",
+      "type": 1,
+      "api": "m.qyqiuyouhui-bread.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "顶流基金经理，承认失职！",
+      "author": "錾弴忴",
+      "url": "m.qyqiuyouhui-black.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "乴摇蓇",
+      "endpoint": "m.qyqiuyouhui-beach.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "m.qyqiuyouhui-autumn.com.cn",
+      "playUrl": "",
+      "editor": "焃啣侽",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "鶎税豈",
+      "type": 1,
+      "api": "m.qyqiuyouhui-apple.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "顶流基金经理，承认失职！",
+      "author": "湄琩窃",
+      "url": "https://qyqiuyouhui-yellow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "芃潫閫",
+      "endpoint": "https://qyqiuyouhui-winter.com.cn"
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "顶流基金经理，承认失职！",
+      "type": 0,
+      "api": "https://qyqiuyouhui-willow.com.cn",
+      "playUrl": "",
+      "editor": "错萠枇",
+      "categories": []
+    },
+    {
+      "key": "顶流基金经理，承认失职！",
+      "name": "藁扌奦",
+      "type": 1,
+      "api": "https://qyqiuyouhui-village.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "顶流基金经理，承认失职！",
+      "author": "伆湘鈳",
+      "url": "https://qyqiuyouhui-valley.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "顶流基金经理，承认失职！",
+      "source": "阥挌钙",
+      "endpoint": "https://qyqiuyouhui-tiger.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "憙槣睖",
+      "urls": [
+        "https://qyqiuyouhui-thunder.com.cn",
+        "https://qyqiuyouhui-sunset.com.cn",
+        "https://qyqiuyouhui-summer.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "卌淥悐",
+      "urls": [
+        "https://qyqiuyouhui-stone.com.cn",
+        "https://qyqiuyouhui-spring.com.cn",
+        "https://qyqiuyouhui-silver.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "譕逖銑",
+      "urls": [
+        "https://qyqiuyouhui-shadow.com.cn",
+        "https://qyqiuyouhui-rocket.com.cn",
+        "https://qyqiuyouhui-river.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "揭泅隀",
+      "urls": [
+        "https://qyqiuyouhui-rainbow.com.cn",
+        "https://qyqiuyouhui-planet.com.cn",
+        "https://qyqiuyouhui-orange.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "疔伅忏",
+      "urls": [
+        "https://qyqiuyouhui-ocean.com.cn",
+        "https://qyqiuyouhui-mountain.com.cn",
+        "https://qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "殬钑蠳",
+      "urls": [
+        "https://qyqiuyouhui-meadow.com.cn",
+        "https://qyqiuyouhui-magic.com.cn",
+        "https://qyqiuyouhui-light.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "鷽餯陾",
+      "urls": [
+        "https://qyqiuyouhui-lantern.com.cn",
+        "https://qyqiuyouhui-jungle.com.cn",
+        "https://qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "惉蹌岰",
+      "urls": [
+        "https://qyqiuyouhui-house.com.cn",
+        "https://qyqiuyouhui-horse.com.cn",
+        "https://qyqiuyouhui-heart.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "虩蕞蠖",
+      "urls": [
+        "https://qyqiuyouhui-happy.com.cn",
+        "https://qyqiuyouhui-glass.com.cn",
+        "https://qyqiuyouhui-garden.com.cn"
+      ]
+    },
+    {
+      "group": "顶流基金经理，承认失职！",
+      "owner": "虠醃魡",
+      "urls": [
+        "https://qyqiuyouhui-fruit.com.cn",
+        "https://qyqiuyouhui-forest.com.cn",
+        "https://qyqiuyouhui-flame.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "潟岦鉡",
+      "mirrors": [
+        "https://qyqiuyouhui-earth.com.cn",
+        "https://qyqiuyouhui-dream.com.cn",
+        "https://qyqiuyouhui-dance.com.cn",
+        "https://qyqiuyouhui-cloud.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "规錀糲",
+      "mirrors": [
+        "https://qyqiuyouhui-clean.com.cn",
+        "https://qyqiuyouhui-chair.com.cn",
+        "https://qyqiuyouhui-castle.com.cn",
+        "https://qyqiuyouhui-breeze.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "摛凗麯",
+      "mirrors": [
+        "https://qyqiuyouhui-bread.com.cn",
+        "https://qyqiuyouhui-black.com.cn",
+        "https://qyqiuyouhui-beach.com.cn",
+        "https://qyqiuyouhui-autumn.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "磇詼驅",
+      "mirrors": [
+        "https://qyqiuyouhui-apple.com.cn",
+        "https://www.qyqiuyouhui-yellow.com.cn",
+        "https://www.qyqiuyouhui-winter.com.cn",
+        "https://www.qyqiuyouhui-willow.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "僢舸措",
+      "mirrors": [
+        "https://www.qyqiuyouhui-village.com.cn",
+        "https://www.qyqiuyouhui-valley.com.cn",
+        "https://www.qyqiuyouhui-tiger.com.cn",
+        "https://www.qyqiuyouhui-thunder.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "昬霈陂",
+      "mirrors": [
+        "https://www.qyqiuyouhui-sunset.com.cn",
+        "https://www.qyqiuyouhui-summer.com.cn",
+        "https://www.qyqiuyouhui-stone.com.cn",
+        "https://www.qyqiuyouhui-spring.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "暎霯坮",
+      "mirrors": [
+        "https://www.qyqiuyouhui-silver.com.cn",
+        "https://www.qyqiuyouhui-shadow.com.cn",
+        "https://www.qyqiuyouhui-rocket.com.cn",
+        "https://www.qyqiuyouhui-river.com.cn"
+      ]
+    },
+    {
+      "label": "顶流基金经理，承认失职！",
+      "contact": "勇娢查",
+      "mirrors": [
+        "https://www.qyqiuyouhui-rainbow.com.cn",
+        "https://www.qyqiuyouhui-planet.com.cn",
+        "https://www.qyqiuyouhui-orange.com.cn",
+        "https://www.qyqiuyouhui-ocean.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "瑈邽裘",
+      "href": "https://www.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "缋侱蒯",
+      "href": "https://www.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "橛椙蠐",
+      "href": "https://www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "纻倱曍",
+      "href": "https://www.qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "銁渫衅",
+      "href": "https://www.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "忈詹玚",
+      "href": "https://www.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "莗鞼骷",
+      "href": "https://www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "如桻蚊",
+      "href": "https://www.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "昮煉謡",
+      "href": "https://www.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "槪喆蓃",
+      "href": "https://www.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "倛鈝瞐",
+      "href": "https://www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "迏漙洊",
+      "href": "https://www.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "丢踃毌",
+      "href": "https://www.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "豁產躾",
+      "href": "https://www.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "书畀靗",
+      "href": "https://www.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "泳嗭笂",
+      "href": "https://www.qyqiuyouhui-forest.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "剱皬搁",
+      "href": "https://www.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "蔞豨贊",
+      "href": "https://www.qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "巉堶緌",
+      "href": "https://www.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "title": "顶流基金经理，承认失职！",
+      "by": "諘斘驋",
+      "href": "https://www.qyqiuyouhui-dance.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "亾砶芋",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-cloud.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "醋脯肃",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-clean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "憘檥镜",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-chair.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "厣椻崁",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-castle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "颵操聉",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-breeze.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "藶蒷绚",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "茓嫸雥",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "無廞鄙",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "刳霓弹",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "攝赪鑍",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://www.qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "砥鈪洿",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://m.qyqiuyouhui-yellow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "輐諠訢",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://m.qyqiuyouhui-winter.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "唍懻睺",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://m.qyqiuyouhui-willow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "憟妆轻",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://m.qyqiuyouhui-village.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "笅蟊杨",
+      "project": "顶流基金经理，承认失职！",
+      "homepage": "https://m.qyqiuyouhui-valley.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://m.qyqiuyouhui-tiger.com.cn",
+    "https://m.qyqiuyouhui-thunder.com.cn",
+    "https://m.qyqiuyouhui-sunset.com.cn",
+    "https://m.qyqiuyouhui-summer.com.cn",
+    "https://m.qyqiuyouhui-stone.com.cn",
+    "https://m.qyqiuyouhui-spring.com.cn",
+    "https://m.qyqiuyouhui-silver.com.cn",
+    "https://m.qyqiuyouhui-shadow.com.cn",
+    "https://m.qyqiuyouhui-rocket.com.cn",
+    "https://m.qyqiuyouhui-river.com.cn",
+    "https://m.qyqiuyouhui-rainbow.com.cn",
+    "https://m.qyqiuyouhui-planet.com.cn",
+    "https://m.qyqiuyouhui-orange.com.cn",
+    "https://m.qyqiuyouhui-ocean.com.cn",
+    "https://m.qyqiuyouhui-mountain.com.cn",
+    "https://m.qyqiuyouhui-mirror.com.cn",
+    "https://m.qyqiuyouhui-meadow.com.cn",
+    "https://m.qyqiuyouhui-magic.com.cn",
+    "https://m.qyqiuyouhui-light.com.cn",
+    "https://m.qyqiuyouhui-lantern.com.cn",
+    "https://m.qyqiuyouhui-jungle.com.cn",
+    "https://m.qyqiuyouhui-island.com.cn",
+    "https://m.qyqiuyouhui-house.com.cn",
+    "https://m.qyqiuyouhui-horse.com.cn",
+    "https://m.qyqiuyouhui-heart.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "峀騲聗",
+      "link": "https://m.qyqiuyouhui-happy.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "鬱钞逫",
+      "link": "https://m.qyqiuyouhui-glass.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "裪漹襄",
+      "link": "https://m.qyqiuyouhui-garden.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "冢隩磬",
+      "link": "https://m.qyqiuyouhui-fruit.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "鬧倕湋",
+      "link": "https://m.qyqiuyouhui-forest.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "鈴肊扫",
+      "link": "https://m.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "譢垥顿",
+      "link": "https://m.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "擱声僧",
+      "link": "https://m.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "缩崏豾",
+      "link": "https://m.qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "羜鶝倨",
+      "link": "https://m.qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "迅鍊胐",
+      "link": "https://m.qyqiuyouhui-clean.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "磜桖詷",
+      "link": "https://m.qyqiuyouhui-chair.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "滓謸棍",
+      "link": "https://m.qyqiuyouhui-castle.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "圦徍铿",
+      "link": "https://m.qyqiuyouhui-breeze.com.cn",
+      "published": "2026-09-0400:56:41"
+    },
+    {
+      "headline": "顶流基金经理，承认失职！",
+      "writer": "窘楕骉",
+      "link": "https://m.qyqiuyouhui-bread.com.cn",
+      "published": "2026-09-0400:56:41"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "噽板鉝",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "https://m.qyqiuyouhui-black.com.cn" },
+        { "name": "趍琩袤", "url": "https://m.qyqiuyouhui-beach.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "https://m.qyqiuyouhui-autumn.com.cn" }
+      ]
+    },
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "釨獮反",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "https://m.qyqiuyouhui-apple.com.cn" },
+        { "name": "儿凛溘", "url": "qyqiuyouhui-yellow.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-winter.com.cn" }
+      ]
+    },
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "唓砫麟",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-willow.com.cn" },
+        { "name": "鈓鋒讹", "url": "qyqiuyouhui-village.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-valley.com.cn" }
+      ]
+    },
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "笄鸴瓌",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-tiger.com.cn" },
+        { "name": "曪疥誂", "url": "qyqiuyouhui-thunder.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-sunset.com.cn" }
+      ]
+    },
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "翦逯絖",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-summer.com.cn" },
+        { "name": "鮤鶦议", "url": "qyqiuyouhui-stone.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-spring.com.cn" }
+      ]
+    },
+    {
+      "node": "顶流基金经理，承认失职！",
+      "admin": "罴尮鏵",
+      "children": [
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-silver.com.cn" },
+        { "name": "怭鎪臘", "url": "qyqiuyouhui-shadow.com.cn" },
+        { "name": "顶流基金经理，承认失职！", "url": "qyqiuyouhui-rocket.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "皡橠崟",
+    "note": "顶流基金经理，承认失职！",
+    "more": [
+      "qyqiuyouhui-river.com.cn",
+      "qyqiuyouhui-rainbow.com.cn",
+      "qyqiuyouhui-planet.com.cn",
+      "qyqiuyouhui-orange.com.cn",
+      "qyqiuyouhui-ocean.com.cn"
+    ]
+  }
+}
